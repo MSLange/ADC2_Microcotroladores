@@ -1,4 +1,4 @@
-# Projeto IoT com Raspberry Pi Pico W e MQTT
+# ADC2 Projeto IoT com Raspberry Pi Pico W e MQTT
 
 ## Objetivo
 Projeto desenvolvido utilizando Raspberry Pi Pico W para demonstrar comunicação IoT através do protocolo MQTT.
